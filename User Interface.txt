@@ -1,1 +1,0 @@
-This is USER UI file. For the interface, they used React language. 
